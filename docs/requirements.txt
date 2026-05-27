@@ -1,0 +1,6 @@
+# Read the Docs build dependencies
+# These are only needed to build the documentation HTML
+sphinx
+nbsphinx
+myst-parser
+sphinx-rtd-theme

@@ -1,0 +1,15 @@
+# Notebook execution dependencies
+# Install with: pip install -r requirements.txt
+ipykernel
+jupyterlab
+numpy
+pandas
+matplotlib
+scanpy
+scikit-learn
+igraph
+leidenalg
+scikit-misc
+
+# stEDGE itself must be installed separately from the main repository:
+# pip install -e path/to/stEDGE-main

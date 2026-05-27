@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use stEDGE in your research, please cite the following work."
+title: "stEDGE: Edge-guided multiscale reconstruction of hierarchical spatial domains and transition interfaces in spatial transcriptomics"
+authors:
+  - given-names: Yi
+    family-names: He
+    orcid: ~
+year: 2026
+version: 1.1.1
+url: "https://github.com/yihe-csu/stEDGE-main"
+repository-code: "https://github.com/yihe-csu/stEDGE-main"
