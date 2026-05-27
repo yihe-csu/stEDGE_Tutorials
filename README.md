@@ -4,11 +4,11 @@
 
 # stEDGE Tutorials
 
-[![Documentation Status](https://readthedocs.org/projects/stedge/badge/?version=latest)](https://stedge.readthedocs.io)
+[![Documentation Status](https://readthedocs.org/projects/stedge-tutorials/badge/?version=latest)](https://stedge-tutorials.readthedocs.io/en/latest/)
 
 This repository contains tutorial documentation for **stEDGE**, an edge-guided framework for multiscale reconstruction of hierarchical spatial domains and transition interfaces in spatial transcriptomics.
 
-**Documentation:** <https://stedge.readthedocs.io>
+**Documentation:** <https://stedge-tutorials.readthedocs.io/en/latest/>
 
 ## Tutorials
 
