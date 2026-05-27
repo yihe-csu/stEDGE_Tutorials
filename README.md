@@ -25,7 +25,7 @@ The documentation includes installation instructions and five tutorial notebooks
 ### Prerequisites
 
 - Python 3.10+
-- [stEDGE](https://github.com/yihe-csu/stEDGE-main) installed (see main repository for instructions)
+- [stEDGE](https://github.com/yihe-csu/stEDGE) installed (see main repository for instructions)
 
 ### Install dependencies
 
@@ -76,7 +76,7 @@ Open `docs/build/html/index.html` in your browser.
 
 ## Main repository
 
-The main stEDGE code repository: <https://github.com/yihe-csu/stEDGE-main>
+The main stEDGE code repository: <https://github.com/yihe-csu/stEDGE>
 
 ## Citation
 
