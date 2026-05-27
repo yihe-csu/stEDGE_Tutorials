@@ -1,0 +1,19 @@
+/* Make ReadTheDocs content area wider */
+.wy-nav-content {
+    max-width: 1200px !important;
+}
+
+/* Prevent notebook output images from being distorted */
+.nboutput img,
+.output_area img,
+.rendered_html img {
+    height: auto !important;
+    max-width: 100% !important;
+    object-fit: contain !important;
+}
+
+/* Allow wide notebook outputs to scroll horizontally if needed */
+.nboutput,
+.output_area {
+    overflow-x: auto !important;
+}
